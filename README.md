@@ -10,7 +10,7 @@
 
 <h3>✉️ How to reach me </h3>
 
- [![Linkedin Badge](https://img.shields.io/badge/-SagarikaHembram-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sagarika-hembram-778b33203//)](https://www.linkedin.com/in/riti2409/)  [![Gmail Badge](https://img.shields.io/badge/-hembramsagarika33@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hembramsagarika33@gmail.com)](mailto:ritikumariupadhyay24@gmail.com) <br>
+ [![Linkedin Badge](https://img.shields.io/badge/-SagarikaHembram-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sagarika-hembram-778b33203//)](https://www.linkedin.com/in/sagarika-hembram-778b33203/)  [![Gmail Badge](https://img.shields.io/badge/-hembramsagarika33@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hembramsagarika33@gmail.com)](mailto:hembramsagarika33@gmail.com) <br>
 
 ---
 
