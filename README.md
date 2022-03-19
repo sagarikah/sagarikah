@@ -18,6 +18,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarikah&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=sagarikah&style=for-the-badge&color=brightgreen)
-
 [![github activity graph](https://activity-graph.herokuapp.com/graph?username=sagarikah&theme=react-dark)](https://github.com/riti2409/github-readme-activity-graph)
